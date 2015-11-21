@@ -4,7 +4,7 @@ Blob detection using JMyron computer vision library in Processing
 
 ## Information
 
-Blob detection using JMyron computer vision library in Processing based on JMyron library <http://webcamxtra.sourceforge.net/download.shtml> & Daniel's Shiffman examples. You can also check my demo videos w/ Processing on youtube: https://www.youtube.com/playlist?list=PLF9C3irJK3xh9U_PcK-X07zd-5F0gDsYw
+Blob detection in Processing based on JMyron library <http://webcamxtra.sourceforge.net/download.shtml> & Daniel's Shiffman examples. You can also check my demo videos w/ Processing on youtube: https://www.youtube.com/playlist?list=PLF9C3irJK3xh9U_PcK-X07zd-5F0gDsYw
 
 ## Licence
 
